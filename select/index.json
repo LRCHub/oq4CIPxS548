@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Gunpowder",
+  "base_artist": "春猿火",
+  "createdAt": "2026-02-20T14:32:48.782800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gunpowder & Lead",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/01_Gunpowder_&_Lead_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gunpowder & Lead (Album)",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/02_Gunpowder_&_Lead_(Album)_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gunpowder",
+      "artist": "Sam Sparro",
+      "has_synced": false,
+      "path": "select/03_Gunpowder_Sam_Sparro.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gunpowder",
+      "artist": "Patty Griffin",
+      "has_synced": false,
+      "path": "select/04_Gunpowder_Patty_Griffin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gunpowder Treason",
+      "artist": "Night",
+      "has_synced": false,
+      "path": "select/05_Gunpowder_Treason_Night.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gunpowder Tim vs. The Moon Kaiser",
+      "artist": "The Mechanisms",
+      "has_synced": true,
+      "path": "select/06_Gunpowder_Tim_vs._The_Moon_Kaiser_The_Mechanisms.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gunpowder",
+      "artist": "Strike Anywhere",
+      "has_synced": true,
+      "path": "select/07_Gunpowder_Strike_Anywhere.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gunpowder",
+      "artist": "Righteous Vendetta",
+      "has_synced": false,
+      "path": "select/08_Gunpowder_Righteous_Vendetta.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gunpowder & Lead",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/09_Gunpowder_&_Lead_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gunpowder",
+      "artist": "Black Joe Lewis & The Honeybears",
+      "has_synced": true,
+      "path": "select/10_Gunpowder_Black_Joe_Lewis_&_The_Honeybears.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gunpowder",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_Gunpowder_春猿火.txt"
+    }
+  ]
+}
